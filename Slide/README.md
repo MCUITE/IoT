@@ -1,4 +1,9 @@
-# 教學進度 Syllabus
+# 銘傳大學 電腦與通訊工程學系 行動寬頻尖端技術課程推廣計畫
+
+
+| [任課教師](/Teacher/deer.md) | [教學進度](/Slide/README.md) | [實驗進度](/Lab/README.md) | [業師上課] |
+
+## 教學進度 Syllabus
 
 105 學年度 第二學期 嵌入式系統 教學進度
 
