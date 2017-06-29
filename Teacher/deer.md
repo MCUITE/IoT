@@ -91,19 +91,19 @@
 ##Publication (Journal)
 
 
-	1.	M.-H. Yang, J.-N. Luo (2009, Aug). 具變形躲避偵測機制之隨機金鑰穿透測試載具(A Random Key Penetration Testing Approach with Polymorphic Detection Avoidance Mechanism), Journal of Internet Technology, vol. 10, no. 4, 2009, pp. 55-64. (SCI, IF=0.438, Computer Science, Information Systems 125/139, Telecommunications 67/77).
-	2.	J.-N. Luo, M.-H. Yang (2010, Feb). A Mobile RFID authentication scheme based on the COMP-128 algorithm (a book chapter in Radio Frequency Identification Fundamentals and Application), IN-TECH Publishing, edited by Vedran Kordic, Feb 2010, pp.183-196.
-	3.	J.-N. Luo, M.-H. Yang (2011, Feb). An E-mail Authentication and Disposable Addressing Scheme for Filtering Spam, Journal of Convergence Information Technology, Vol. 6, No. 2, February 2011, pp. 161-171 (EI).
-	1.	J.-N.Luo, M.-H.Yang (2012, Apr). Mobile RFID Mutual Authentication and Ownership Transfer. International Journal of Advanced Computer Technology, Vol. 4, No. 7, pp. 28 ~ 40, 2012. (EI).
-	2.	J.-N.Luo, M.-H.Yang (2014, May). An Efficient Offline Delegation Protocol in Mobile RFID Environment. Journal of Networks, Vol. 9, No. 5, 2014, pp. 1114-1120. (EI).
-	3.	J.-N.Luo, M.-H.Yang (2014, Oct). An Anonymous e-Rental Protocol Based On ID-based Cryptography and NFC, Journal of Supercomputing, vol. 70, no. 1, 2014, pp.31-53. (SCI, IF=0.858, Computer Science, Hardware & Architecture 25/50 Computer Science, Theory & Methods   56/102, Engineering, Electrical & Electronic 157/249).
-	4.	J.-N.Luo, M.-H.Yang (2014, Nov). Multi-level Offline Delegation Transfer in Mobile RFID Networks, Journal of Information, Technology, and Technology, vol. 43, no.2, 2014, pp.41-50. (EI).
-	5.	J.-N.Luo, M.-H.Yang (2015, Apr). EMV-based mobile payment protocol for offline transaction – with the ability of mutual authentication, International Journal of Science and Engineering (IJSE), vol.5, no.1, 2015, pp.61-66. 
-	6.	M.-H. Yang, J.-N. Luo (2015, Sep). Fast Antinoise RFID-Aided Medical Care System, International Journal of Distributed Sensor Networks, vol. 2015, 2015, pp.1-13. (SCI, IF=0.665, Computer Science, Information Systems 106/139, Telecommunications 58/77).  
-	7.	M.-H. Yang, J.-N. Luo, S.-Y. Lu (2015, Oct), A Novel Multilayered RFID Tagged Cargo Integrity Assurance Scheme, Sensors, vol. 15, no. 10, 2015, pp. 27087-27115. (SCI, IF=2.245, Chemistry, Analytical 31/74, Electrochemistry 14/28, Instruments & Instrumentation 10/56).
-	8.	J.-N.Luo, M.-H.Yang (2015, Dec), A mobile authentication system resists to shoulder-surfing attacks, Multimedia Tools and Applications, vol. 2015, 2015, pp.1-13. (SCI, IF=1.346, Computer Science, Information Systems 52/139, Computer Science, Software Engineering 36/104, Computer Science, Theory & Methods 32/102, Engineering, Electrical & Electronic 114/249).
-	9.	J.-N.Luo, M.-H.Yang (2016, Mar). Analysis and Improvement of Key Distribution Scheme for Secure Group Communication, Journal of Electrical and Computer Engineering, vol. 2016, 2016, pp.1-7. (EI).
-	10.	J.-N.Luo, M.-H.Yang (2016, Mar).  An Unlinkable Anonymous Payment Scheme based on Near Field Communication, Computers and Electrical Engineering, Volume 49, Issue 1, 2016 (SCI).
+1.	M.-H. Yang, J.-N. Luo (2009, Aug). 具變形躲避偵測機制之隨機金鑰穿透測試載具(A Random Key Penetration Testing Approach with Polymorphic Detection Avoidance Mechanism), Journal of Internet Technology, vol. 10, no. 4, 2009, pp. 55-64. (SCI, IF=0.438, Computer Science, Information Systems 125/139, Telecommunications 67/77).
+2. J.-N. Luo, M.-H. Yang (2010, Feb). A Mobile RFID authentication scheme based on the COMP-128 algorithm (a book chapter in Radio Frequency Identification Fundamentals and Application), IN-TECH Publishing, edited by Vedran Kordic, Feb 2010, pp.183-196.
+3.	J.-N. Luo, M.-H. Yang (2011, Feb). An E-mail Authentication and Disposable Addressing Scheme for Filtering Spam, Journal of Convergence Information Technology, Vol. 6, No. 2, February 2011, pp. 161-171 (EI).
+4.	J.-N.Luo, M.-H.Yang (2012, Apr). Mobile RFID Mutual Authentication and Ownership Transfer. International Journal of Advanced Computer Technology, Vol. 4, No. 7, pp. 28 ~ 40, 2012. (EI).
+5.	J.-N.Luo, M.-H.Yang (2014, May). An Efficient Offline Delegation Protocol in Mobile RFID Environment. Journal of Networks, Vol. 9, No. 5, 2014, pp. 1114-1120. (EI).
+6.	J.-N.Luo, M.-H.Yang (2014, Oct). An Anonymous e-Rental Protocol Based On ID-based Cryptography and NFC, Journal of Supercomputing, vol. 70, no. 1, 2014, pp.31-53. (SCI, IF=0.858, Computer Science, Hardware & Architecture 25/50 Computer Science, Theory & Methods   56/102, Engineering, Electrical & Electronic 157/249).
+7.	J.-N.Luo, M.-H.Yang (2014, Nov). Multi-level Offline Delegation Transfer in Mobile RFID Networks, Journal of Information, Technology, and Technology, vol. 43, no.2, 2014, pp.41-50. (EI).
+8.	J.-N.Luo, M.-H.Yang (2015, Apr). EMV-based mobile payment protocol for offline transaction – with the ability of mutual authentication, International Journal of Science and Engineering (IJSE), vol.5, no.1, 2015, pp.61-66. 
+9.	M.-H. Yang, J.-N. Luo (2015, Sep). Fast Antinoise RFID-Aided Medical Care System, International Journal of Distributed Sensor Networks, vol. 2015, 2015, pp.1-13. (SCI, IF=0.665, Computer Science, Information Systems 106/139, Telecommunications 58/77).  
+10.	M.-H. Yang, J.-N. Luo, S.-Y. Lu (2015, Oct), A Novel Multilayered RFID Tagged Cargo Integrity Assurance Scheme, Sensors, vol. 15, no. 10, 2015, pp. 27087-27115. (SCI, IF=2.245, Chemistry, Analytical 31/74, Electrochemistry 14/28, Instruments & Instrumentation 10/56).
+11.	J.-N.Luo, M.-H.Yang (2015, Dec), A mobile authentication system resists to shoulder-surfing attacks, Multimedia Tools and Applications, vol. 2015, 2015, pp.1-13. (SCI, IF=1.346, Computer Science, Information Systems 52/139, Computer Science, Software Engineering 36/104, Computer Science, Theory & Methods 32/102, Engineering, Electrical & Electronic 114/249).
+12.	J.-N.Luo, M.-H.Yang (2016, Mar). Analysis and Improvement of Key Distribution Scheme for Secure Group Communication, Journal of Electrical and Computer Engineering, vol. 2016, 2016, pp.1-7. (EI).
+13.	J.-N.Luo, M.-H.Yang (2016, Mar).  An Unlinkable Anonymous Payment Scheme based on Near Field Communication, Computers and Electrical Engineering, Volume 49, Issue 1, 2016 (SCI).
 
 ---
 
