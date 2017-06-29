@@ -31,8 +31,8 @@
 |12	|	Node-Red基礎概念				| [Link](https://nodered.org)|
 |13 |	Node-Red連結 MCS Cloud		| [NodeRed+MCS Cloud](http://blog.cavedu.com/物聯網/好用的物聯網開發工具-使用node-red工具，讀取聯發科雲/)|
 |14	|	OneM2M						| [Link](http://www.onem2m.org)|
-|15	|	聯發科 MCS Cloud物聯網介紹（業師）| [LinkIt 7697講義](../CaveEdu/LinkIt7697.pptx)|
+|15	|	聯發科 MCS Cloud物聯網介紹（業師）| [LinkIt 7697講義](/CaveEdu/LinkIt7697.pptx)|
 |	|								|	[LinkIt Development Guide](https://docs.labs.mediatek.com/resource/linkit7697-arduino/en)|
-|16	|	聯發科私有雲服務（業師）		| [MCSLite](../CaveEdu/MCSLite.pdf)|
+|16	|	聯發科私有雲服務（業師）		| [MCSLite](/CaveEdu/MCSLite.pdf)|
 |17	|	物聯網、智慧城市運用（業師）		|
 |18	|	期末考						|
